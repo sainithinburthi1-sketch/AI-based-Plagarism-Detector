@@ -1,0 +1,5 @@
+Academic integrity is the commitment to honest and responsible scholarship in scholarly research and writing. Plagiarism occurs when an author represents someone else's work, ideas, or expressions as their own without proper acknowledgement or citation. Types of plagiarism range from direct copy-pasting of sentences to mosaic plagiarism, where source phrases are intermingled with new words without attribution.
+
+Proper paraphrasing requires restating an original idea completely in one's own unique voice and sentence structure, while still providing clear citation of the original source. Merely replacing a few words with synonyms or altering verb tenses while retaining the sentence structure of the source is considered improper paraphrasing or patchwriting.
+
+Automated detection tools analyze document structure, stylistic fingerprints, and semantic representations to protect intellectual property and preserve scholarly standards across academic institutions worldwide.
