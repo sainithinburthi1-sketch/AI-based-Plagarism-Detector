@@ -200,5 +200,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 ## 👨‍💻 Author
-
-Built with ❤️ using Python Flask & Sentence-Transformers AI.
+Burthi Sainithin
