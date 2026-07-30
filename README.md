@@ -1,4 +1,4 @@
-# 🛡️ VeriTextAI — AI-Powered Plagiarism Detection System
+# 🛡️ AI-Powered Plagiarism Detection System
 
 An intelligent plagiarism detection web application built with **Python Flask**, leveraging **Sentence-Transformers** for deep semantic similarity analysis. Supports `.txt`, `.pdf`, and `.docx` file uploads or direct text pasting, with both local repository comparison and real-time online web search checking.
 
